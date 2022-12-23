@@ -1,6 +1,7 @@
 
 <h1 align="center">Hello everyone 👋🏻  I'm Buse <img src="https://media.tenor.com/P5DB2iGAecsAAAAi/peach-cat.gif" width="60"></h1>
 
+<h3 align="center">A frontend web developer from Izmir, Turkey <img src="https://media0.giphy.com/media/JoUoAzZEjEy9PrZ98N/giphy.gif?cid=ecf05e472vad3wwx73hyhto1uavd7rhzi2n67mnd46jc7v0w&rid=giphy.gif&ct=s" width="40" height="40"></h3>
 
 <p align="center">I do content on Design and Development.I really enjoy learning languages and frameworks like React. </p>
 
